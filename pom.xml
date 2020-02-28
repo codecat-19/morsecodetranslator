@@ -44,7 +44,7 @@
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
                             <mainClass>
-                                com.smatt.morse.MorseCodeTranslator
+                                MorseCodeTranslator
                             </mainClass>
                         </manifest>
                     </archive>
